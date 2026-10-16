@@ -67,6 +67,7 @@ graph LR
     subgraph 3. Backend Architecture
         H[API Requests] --> I[.NET 8 / Spring Boot / FastAPI] --> J[(Relational DB)]
     end
+```
 
 1. 🧬 Clinical AI Decision Support System
 Companion codebase for the Springer Nature research publication.
