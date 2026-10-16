@@ -67,3 +67,26 @@ graph LR
     subgraph 3. Backend Architecture
         H[API Requests] --> I[.NET 8 / Spring Boot / FastAPI] --> J[(Relational DB)]
     end
+
+1. 🧬 Clinical AI Decision Support System
+Companion codebase for the Springer Nature research publication.
+
+Two-stage predictive framework for disease severity stratification and guideline-concordant drug recommendations.
+Implements ensemble methods (Random Forest, XGBoost, CatBoost), Logistic Regression baselines, and Recurrent Neural Networks (LSTM).
+End-to-end data pipeline: statistical feature selection, handling cohort imbalances, and clinical interpretability.
+2. ⚡ Enterprise RAG & Document Intelligence System
+Retrieval-Augmented Generation application for semantic knowledge retrieval.
+
+Document ingestion and semantic chunking pipeline generating vector embeddings for context-aware search.
+Mitigates LLM hallucinations by injecting verified context windows into prompts before inference.
+Containerized execution environment using Docker Compose.
+3. 🛡️ IntelSphere - Threat Intelligence API
+RESTful Web API for cybersecurity breach source monitoring and domain risk indexing.
+
+Built with ASP.NET Core (.NET 8) using Entity Framework Core and Clean Architecture principles.
+Decoupled controllers, DTOs, automated migrations, and interactive Swagger/OpenAPI documentation.
+Database abstraction supporting SQLite for local testing and PostgreSQL for deployment.
+🎯 Active Growth & Continuous Learning
+💡 Algorithmic Problem Solving: Actively practicing Data Structures & Algorithms (LeetCode / DSA) to sharpen time and space complexity analysis.
+⚙️ CI/CD & DevOps Practices: Actively building automated GitHub Actions workflows for continuous integration, code quality checks, and container deployment.
+Open to software engineering roles, applied AI engineering opportunities, and collaborative research.
