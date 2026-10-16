@@ -9,7 +9,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5863-8443)
 
 <p align="center">
-  <em>Computer Engineering graduate building practical AI systems, RAG pipelines, and enterprise backend architectures with an active continuous-learning mindset.</em>
+  <em>Software Engineering graduate building practical AI systems, RAG pipelines, and enterprise backend architectures with an active continuous-learning mindset.</em>
 </p>
 
 </div>
