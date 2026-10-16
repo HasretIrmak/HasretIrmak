@@ -103,3 +103,15 @@ graph LR
 
 - 💡 **Algorithmic Problem Solving:** Actively practicing Data Structures & Algorithms (LeetCode / DSA) to sharpen time and space complexity analysis.
 - ⚙️ **CI/CD & DevOps Practices:** Actively building automated GitHub Actions workflows for continuous integration, code quality checks, and container deployment.
+
+### 📈 GitHub Engineering Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasretIrmak&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="48%" alt="Hasret's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasretIrmak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+---
+<div align="center">
+[![Publications](https://img.shields.io/badge/Peer--Reviewed_Research-Springer_Nature_(1st_Author)-002F6C?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-07267-2_11)
+[![Status](https://img.shields.io/badge/Opportunity_Status-Open_for_SWE_%26_AI_Roles-success?style=for-the-badge)](https://www.linkedin.com/in/hasret-irmak-b-15b617257/)
+<sub>Open to software engineering roles, applied AI engineering opportunities, and collaborative research.</sub>
+</div>
